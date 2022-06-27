@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff4fcdd9-e46b-4325-acbc-596eec72203f": {
+      "ProjectGuid": "ff4fcdd9-e46b-4325-acbc-596eec72203f",
+      "DisplayName": "Stok Takip",
+      "ColorIndex": 0
+    },
+    "cba9f7f3-e4ef-422e-8c83-c17204edc452": {
+      "ProjectGuid": "cba9f7f3-e4ef-422e-8c83-c17204edc452",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "9b9ebfcf-de3e-4894-b5e6-06b0e53dd3d8": {
+      "ProjectGuid": "9b9ebfcf-de3e-4894-b5e6-06b0e53dd3d8",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "1a093d6e-4660-4ee2-9ff5-51bce6e3e862": {
+      "ProjectGuid": "1a093d6e-4660-4ee2-9ff5-51bce6e3e862",
+      "DisplayName": "LogicLayer",
+      "ColorIndex": 3
+    },
+    "4cf24cd8-b1ba-4d1f-b25c-8caafa288ad5": {
+      "ProjectGuid": "4cf24cd8-b1ba-4d1f-b25c-8caafa288ad5",
+      "DisplayName": "AI Setup Project1",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
